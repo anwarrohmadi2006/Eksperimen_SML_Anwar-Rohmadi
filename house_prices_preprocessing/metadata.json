@@ -86,10 +86,5 @@
   ],
   "n_train": 1168,
   "n_val": 292,
-  "n_features": 83,
-  "target_stats": {
-    "mean": 180921.19589041095,
-    "median": 163000.0,
-    "std": 79442.50288288662
-  }
+  "n_features": 83
 }
